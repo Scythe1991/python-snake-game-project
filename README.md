@@ -7,4 +7,4 @@ Simple snake game in Python using Pygame
 Improvements:
 
 1. Need to implement game over sequence instead of quitting programme
-2. Need to make sure snake the going through itself results in game over
+2. Need to make sure the snake going through itself results in game over
